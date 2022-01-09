@@ -54,6 +54,9 @@ def max_marks(marks):
     return x
 
 ```
+## Sample Input Output:
+
+![input](./max_marks1.jpg)
 ## Output:
 
 ![output](./output1.png) 
